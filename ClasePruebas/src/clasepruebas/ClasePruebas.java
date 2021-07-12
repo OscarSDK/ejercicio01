@@ -18,6 +18,8 @@ public class ClasePruebas {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"Holaaa");
+        JOptionPane.showMessageDialog(null,"Holaaa");
+        JOptionPane.showMessageDialog(null,"Holaaa");
     }
     
 }
